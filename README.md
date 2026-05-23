@@ -1,31 +1,31 @@
-<!DOCTYPE html>
-<html lang="ar" dir="rtl">
-<head>
-  <meta charset="UTF-8">
-  <title>منجم الذكاء الاصطناعي | المنصة الفلكية الاحترافية</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link href="https://googleapis.com" rel="stylesheet">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
-  <style>
-    body {background:linear-gradient(120deg,#181533 60%,#422b5c 100%);font-family:'Cairo',sans-serif;margin:0;padding:0;color:#fff;min-height:100vh;}
-    header, footer {background:#20183e;color:#ffe490;text-align:center;padding:1.2em 0 1em 0;font-size:2em;letter-spacing:.04em;box-shadow:0 2px 12px #0002;}
-    footer{margin-top:2em;background:#241a39;font-size:1em;color:#ffd700;}
-    nav {
-      display:flex; justify-content:center; flex-wrap:wrap; gap:9px;
-      background:#2d214b; padding: .7em .1em 0 .1em;
-      box-shadow:0 7px 28px #23103b24;
-    }
-    nav button {
-      background: linear-gradient(90deg,#291c47 60%,#b8954f4a);
-      border:none; color:#ffda7c;
-      font-size:1.13em;
-      cursor:pointer;
-      padding:.6em 1.2em;
-      border-radius:9px;
-      font-weight:bold;
-      transition:.19s;
-      letter-spacing:.04em;
-      margin-bottom: .3em;
+<! DOCTYPE html>
+HTML.lang="ar" dir="rtl">
+<رئيس.>
+ <ميتا.charset="UTF-8"> 
+    <العنوان.>منجم الذكاء الاصطناعي | المنصة الفلكية الاحترافية </العنوان.> 
+ <ميتا.اسم="viewport" content="العرض=عرض على الجهاز, النطاق الأولي=1"> 
+ <رابط.href="https://googleapis.com" rel="stylesheet"> 
+ <السيناريو.src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></السيناريو.> 
+   <أسلوب.> 
+ الجسم.{الخلفية: خط التدرج (120deg، #181533 60٪، #422b5c 100٪) ؛ عائلة الخط: 'القاهرة'، سان-سيريف؛ الهامش:0؛ حشو:0؛ اللون: #fff؛ مين الارتفاع: 100vh؛}       
+ رأس، تذييل. {الخلفية:#20183e;اللون:#ffe490;text-align:center;padding:1.2em 0 1em 0;font-size:2em;letter-spacing:.04em;box-shadow:0 2px 12px #0002;}
+ تذييل. {الهامش أعلى:2em; الخلفية:#241a39;الحجم الأمامي:1em;اللون:#ffd700;}
+ ناف. 
+ عرض:مرن؛ تبرير المحتوى: المركز؛ فليكس التفاف: التفاف؛ الفجوة: 9px؛ 
+ خلفية:#2d214b; حشو: .7em .1em 0 .1em; 
+ مربع الظل: 0.7px 28px #23103b24; 
+ } 
+ زر الملاحة { 
+ الخلفية: التدرج الخطي (90deg،#291c47 60٪، #b8954f4a) ؛ 
+ الحدود: لا شيء؛ اللون:#ffda7c؛ 
+ حجم الخط: 1.13em; 
+ المؤشر: نقطة. 
+ الحشو:.6EM 1.2EM. 
+ الحدود-راديوس:9px; 
+ وزن الخط: جريء. 
+ الانتقال:.19s؛ 
+ ترجمة الرسائل:.04em؛ 
+ الهامش السفلي: .3EM؛ 
       box-shadow: 0 2px 13px #18133736;
     }
     nav button.active,nav button:hover {
